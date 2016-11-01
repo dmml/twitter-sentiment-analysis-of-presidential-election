@@ -10,13 +10,13 @@ CONTENTS
 	data/
 		opinion-lexicon-English/	- Hu & Liu's opinion lexicon
 			negative-words.txt
-      positive-words.txt
+      			positive-words.txt
   
-  output/							        - output files, mainly graphics
+  	output/					- output files, mainly graphics
 		qplot_delta_hist.pdf
 		twitter_score_histograms.pdf
   
-  R/								          - R source code
+  	R/					- R source code
 		sentiment.R
     
-  README 							        - this file
+	README 					- this file
